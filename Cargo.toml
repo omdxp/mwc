@@ -1,0 +1,8 @@
+[package]
+name = "mwc"
+description = "Mars Weight Calculator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Omar <omarbelghaouti@gmail.com>"]
+
+[dependencies]
